@@ -1,0 +1,6 @@
+{
+  "name": "Night Drive 3D",
+  "description": "3D highway driving game with tactical Night Vision Goggles, tilt steering, day-night sectors, garage vehicles, and PDF telemetry & mission guide export.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
